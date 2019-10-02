@@ -8,5 +8,5 @@ This is screenshot of MP3 Player<br/>
 <hr/>
 To see this mp3 running you can see in youtube, link in bottom<br/>
 https://www.youtube.com/watch?v=qSkfF0I0Vto
-<hr/> <br/>
--Love Code
+<br/><hr/>
+- Love Code
